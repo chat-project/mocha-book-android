@@ -1,2 +1,2 @@
-# mocha-book-app
+# mocha-book-android
 모카북 앱
